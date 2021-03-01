@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    list-style: none;
+    display:flex;
+    justify-content: space-around;
+    box-shadow: 1px 1px 5px gray;
+    padding: 2rem;
+}
+
+h1{
+    text-align: center;
+    padding: 3rem;
+}
+
+a{
+    text-decoration: none;
+    color:goldenrod;
+    font-weight: 700;
+}

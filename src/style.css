@@ -1,0 +1,26 @@
+.clock{
+    margin-bottom: 4rem;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 7em;
+    border-top: 4px solid white;
+    width:50%;
+    margin: auto;
+    padding-top: 4rem;
+    
+}
+.timer{
+    margin-top: 10%;
+    text-align: center;
+    font-family: monospace;
+    font-size: 10em;
+    padding-top: 0.8em;
+    color: white;
+    text-shadow: 1px 1px 200px  black;
+}
+
+body{
+    background-image: url('./clockComp/15532327436_74c32632ac_k.jpg');
+}

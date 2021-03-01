@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+    padding:2rem;
+    box-shadow: 1px 1px 5px gray;
+}
+
+a{
+    text-decoration: none;
+    color: goldenrod;
+    font-weight: 700;
+}
+
+h1{
+    text-align: center;
+    padding-top: 10rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+}
