@@ -7,7 +7,7 @@ function Main(){
         return(
             <div className="clock-section">
                 <Clock clock='ClockData'/>
-                <Title title="Hello, Prisca!"/>
+                <Title title="Greetings, Roland!"/>
             </div>
         )
 }
